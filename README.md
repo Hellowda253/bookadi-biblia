@@ -7,7 +7,7 @@ versículos, búsqueda, rutas temáticas, glosario, anotaciones, progreso y graf
 
 ## Instalación
 
-1. Descarga `BookADI Biblia Setup 1.1.0.exe` desde la sección Releases.
+1. Descarga `BookADI.Biblia.Setup.1.1.0.exe` desde la sección Releases.
 2. Ejecuta el instalador y elige la carpeta de destino.
 3. Abre **BookADI Biblia** desde el acceso directo del escritorio o el menú
    Inicio.
@@ -27,7 +27,7 @@ Cada versión publicada incluye `SHA256SUMS.txt`. En PowerShell puedes verificar
 el instalador con:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 ".\BookADI Biblia Setup 1.1.0.exe"
+Get-FileHash -Algorithm SHA256 ".\BookADI.Biblia.Setup.1.1.0.exe"
 ```
 
 ## Contenido y atribuciones
