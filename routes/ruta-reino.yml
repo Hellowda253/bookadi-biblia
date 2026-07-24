@@ -1,0 +1,53 @@
+id: ruta-reino
+title: "Reino"
+summary: "Explica la soberanía de Dios, la institución de la monarquía en Israel, la promesa del linaje de David y la culminación en el Reino del Mesías."
+image: ../assets/routes/ruta-reino.jpg
+steps:
+  - id: paso-ruta-reino-01
+    note: GEN.46-50
+    title: "Génesis 49"
+    description: "Estudio de Génesis 49 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-02
+    note: 1SA.6-10
+    title: "1 Samuel 8"
+    description: "Estudio de 1 Samuel 8 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-03
+    note: 1SA.16-20
+    title: "1 Samuel 16–17"
+    description: "Estudio de 1 Samuel 16–17 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-04
+    note: 2SA.6-10
+    title: "2 Samuel 7"
+    description: "Estudio de 2 Samuel 7 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-05
+    note: 1KI.1-5
+    title: "1 Reyes 3"
+    description: "Estudio de 1 Reyes 3 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-06
+    note: 1KI.11-15
+    title: "1 Reyes 12"
+    description: "Estudio de 1 Reyes 12 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-07
+    note: PSA.1-10
+    title: "Salmos 2"
+    description: "Estudio de Salmos 2 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-08
+    note: DAN.6-12
+    title: "Daniel 7"
+    description: "Estudio de Daniel 7 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-09
+    note: MAT.1-5
+    title: "Mateo 4"
+    description: "Estudio de Mateo 4 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-10
+    note: MAT.11-15
+    title: "Mateo 13"
+    description: "Estudio de Mateo 13 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-11
+    note: LUK.16-20
+    title: "Lucas 17"
+    description: "Estudio de Lucas 17 en el contexto de ruta del reino."
+  - id: paso-ruta-reino-12
+    note: REV.11-15
+    title: "Apocalipsis 11"
+    description: "Estudio de Apocalipsis 11 en el contexto de ruta del reino."

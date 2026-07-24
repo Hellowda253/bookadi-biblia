@@ -1,0 +1,65 @@
+id: ruta-pecado-arrepentimiento-perdon
+title: "Pecado, Arrepentimiento y Perdón"
+summary: "El drama de la rebelión humana, el llamado a la confesión sincera, el arrepentimiento y la infinita gracia de Dios que restaura al pecador."
+image: ../assets/routes/ruta-pecado-arrepentimiento-perdon.jpg
+steps:
+  - id: paso-ruta-pecado-arrepentimiento-perdon-01
+    note: GEN.1-5
+    title: "Génesis 3–4"
+    description: "Estudio de Génesis 3–4 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-02
+    note: GEN.6-10
+    title: "Génesis 6"
+    description: "Estudio de Génesis 6 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-03
+    note: EXO.31-35
+    title: "Éxodo 32"
+    description: "Estudio de Éxodo 32 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-04
+    note: 2SA.11-15
+    title: "2 Samuel 11–12"
+    description: "Estudio de 2 Samuel 11–12 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-05
+    note: PSA.31-40
+    title: "Salmos 32"
+    description: "Estudio de Salmos 32 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-06
+    note: PSA.51-60
+    title: "Salmos 51"
+    description: "Estudio de Salmos 51 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-07
+    note: ISA.1-5
+    title: "Isaías 1"
+    description: "Estudio de Isaías 1 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-08
+    note: JON.1-4
+    title: "Jonás 3–4"
+    description: "Estudio de Jonás 3–4 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-09
+    note: LUK.11-15
+    title: "Lucas 15"
+    description: "Estudio de Lucas 15 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-10
+    note: LUK.21-24
+    title: "Lucas 23"
+    description: "Estudio de Lucas 23 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-11
+    note: JHN.6-10
+    title: "Juan 8"
+    description: "Estudio de Juan 8 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-12
+    note: ACT.1-5
+    title: "Hechos 2"
+    description: "Estudio de Hechos 2 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-13
+    note: ROM.1-5
+    title: "Romanos 3–8"
+    description: "Estudio de Romanos 3–8 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-14
+    note: ROM.6-10
+    title: "Romanos 3–8"
+    description: "Estudio de Romanos 3–8 en el contexto de ruta del pecado, arrepentimiento y perdón."
+  - id: paso-ruta-pecado-arrepentimiento-perdon-15
+    note: 1JN.1-5
+    title: "1 Juan 1"
+    description: "Estudio de 1 Juan 1 en el contexto de ruta del pecado, arrepentimiento y perdón."

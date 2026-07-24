@@ -1,0 +1,37 @@
+id: ruta-milagros
+title: "Milagros de Cristo"
+summary: "Exploración de las señales de poder, misericordia y autoridad sobrenatural de Jesús sobre la enfermedad, la naturaleza y la muerte."
+image: ../assets/routes/ruta-milagros.jpg
+steps:
+  - id: paso-ruta-milagros-01
+    note: JHN.1-5
+    title: "Juan 2"
+    description: "Estudio de Juan 2 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-02
+    note: MRK.1-5
+    title: "Marcos 1"
+    description: "Estudio de Marcos 1 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-03
+    note: MRK.6-10
+    title: "Marcos 6"
+    description: "Estudio de Marcos 6 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-04
+    note: MAT.6-10
+    title: "Mateo 8–9"
+    description: "Estudio de Mateo 8–9 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-05
+    note: LUK.6-10
+    title: "Lucas 7"
+    description: "Estudio de Lucas 7 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-06
+    note: LUK.16-20
+    title: "Lucas 17"
+    description: "Estudio de Lucas 17 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-07
+    note: JHN.6-10
+    title: "Juan 6"
+    description: "Estudio de Juan 6 en el contexto de ruta de los milagros de cristo."
+  - id: paso-ruta-milagros-08
+    note: JHN.11-15
+    title: "Juan 11"
+    description: "Estudio de Juan 11 en el contexto de ruta de los milagros de cristo."

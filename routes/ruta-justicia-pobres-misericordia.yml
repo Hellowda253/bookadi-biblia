@@ -1,0 +1,67 @@
+id: ruta-justicia-pobres-misericordia
+title: "Justicia, Pobres y Misericordia"
+summary: "El mandato bíblico de defender al vulnerable, practicar la generosidad, amar la misericordia y demandar una conducta ética justa en la sociedad."
+image: ../assets/routes/ruta-justicia-pobres-misericordia.jpg
+steps:
+  - id: paso-ruta-justicia-pobres-misericordia-01
+    note: EXO.21-25
+    title: "Éxodo 22–23"
+    description: "Estudio de Éxodo 22–23 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-02
+    note: LEV.16-20
+    title: "Levítico 19"
+    description: "Estudio de Levítico 19 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-03
+    note: DEU.6-10
+    title: "Deuteronomio 10"
+    description: "Estudio de Deuteronomio 10 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-04
+    note: DEU.11-15
+    title: "Deuteronomio 15"
+    description: "Estudio de Deuteronomio 15 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-05
+    note: RUT.1-4
+    title: "Rut 1–4"
+    description: "Estudio de Rut 1–4 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-06
+    note: ISA.1-5
+    title: "Isaías 1"
+    description: "Estudio de Isaías 1 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-07
+    note: ISA.56-60
+    title: "Isaías 58"
+    description: "Estudio de Isaías 58 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-08
+    note: AMO.1-5
+    title: "Amós 5"
+    description: "Estudio de Amós 5 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-09
+    note: MIC.1-7
+    title: "Miqueas 6"
+    description: "Estudio de Miqueas 6 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-10
+    note: MAT.1-5
+    title: "Mateo 5–7"
+    description: "Estudio de Mateo 5–7 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-11
+    note: MAT.6-10
+    title: "Mateo 5–7"
+    description: "Estudio de Mateo 5–7 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-12
+    note: MAT.21-28
+    title: "Mateo 25"
+    description: "Estudio de Mateo 25 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-13
+    note: LUK.1-5
+    title: "Lucas 4"
+    description: "Estudio de Lucas 4 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-14
+    note: LUK.6-10
+    title: "Lucas 10"
+    description: "Estudio de Lucas 10 en el contexto de ruta de justicia, pobres y misericordia."
+  - id: paso-ruta-justicia-pobres-misericordia-15
+    note: JAS.1-5
+    title: "Santiago 2"
+    description: "Estudio de Santiago 2 en el contexto de ruta de justicia, pobres y misericordia."
+
+

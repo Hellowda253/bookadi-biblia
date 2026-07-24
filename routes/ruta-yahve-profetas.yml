@@ -1,0 +1,73 @@
+id: ruta-yahve-profetas
+title: "Yahvé en los Profetas"
+summary: "Un recorrido por la voz profética: Yahvé confronta la injusticia, denuncia la corrupción religiosa, juzga la infidelidad colectiva y sostiene una esperanza de perdón, retorno y restauración."
+image: ../assets/routes/ruta-yahve-profetas.jpg
+steps:
+  - id: paso-ruta-yahve-profetas-01
+    note: AMO.1-5
+    title: "Amós 1-5"
+    description: "La denuncia de la opresión, el culto vacío y la injusticia social."
+  - id: paso-ruta-yahve-profetas-02
+    note: MIC.1-7
+    title: "Miqueas 1-7"
+    description: "Justicia, humildad, defensa del vulnerable y esperanza para el pueblo."
+  - id: paso-ruta-yahve-profetas-03
+    note: ISA.1-5
+    title: "Isaías 1-5"
+    description: "Una crítica a la religiosidad formal que no transforma la vida pública."
+  - id: paso-ruta-yahve-profetas-04
+    note: ISA.6-10
+    title: "Isaías 6-10"
+    description: "La santidad de Yahvé, el llamado de Isaías y la crisis de confianza."
+  - id: paso-ruta-yahve-profetas-05
+    note: HOS.1-5
+    title: "Oseas 1-5"
+    description: "La infidelidad del pueblo narrada como una relación de pacto quebrada."
+  - id: paso-ruta-yahve-profetas-06
+    note: HOS.6-10
+    title: "Oseas 6-10"
+    description: "La crítica a la religiosidad superficial y al abandono de la justicia."
+  - id: paso-ruta-yahve-profetas-07
+    note: AMO.6-9
+    title: "Amós 6-9"
+    description: "Juicio sobre el privilegio, la autosuficiencia y la desigualdad."
+  - id: paso-ruta-yahve-profetas-08
+    note: JER.6-10
+    title: "Jeremías 6-10"
+    description: "La falsa seguridad depositada en el templo y en la identidad nacional."
+  - id: paso-ruta-yahve-profetas-09
+    note: HOS.11-14
+    title: "Oseas 11-14"
+    description: "El amor compasivo de Yahvé y el llamado al retorno."
+  - id: paso-ruta-yahve-profetas-10
+    note: JER.26-30
+    title: "Jeremías 26-30"
+    description: "Juicio, exilio y la promesa de que la destrucción no es el final de la historia."
+  - id: paso-ruta-yahve-profetas-11
+    note: JER.31-35
+    title: "Jeremías 31-35"
+    description: "Perdón, renovación interior y una alianza restaurada."
+  - id: paso-ruta-yahve-profetas-12
+    note: ISA.11-15
+    title: "Isaías 11-15"
+    description: "La esperanza de un orden justo en medio del conflicto histórico."
+  - id: paso-ruta-yahve-profetas-13
+    note: ISA.36-40
+    title: "Isaías 36-40"
+    description: "De la crisis política al consuelo: Yahvé permanece soberano."
+  - id: paso-ruta-yahve-profetas-14
+    note: ISA.41-45
+    title: "Isaías 41-45"
+    description: "Yahvé como creador, redentor y liberador frente a los ídolos."
+  - id: paso-ruta-yahve-profetas-15
+    note: ISA.51-55
+    title: "Isaías 51-55"
+    description: "Consuelo, liberación y la amplitud de la promesa de restauración."
+  - id: paso-ruta-yahve-profetas-16
+    note: ISA.56-60
+    title: "Isaías 56-60"
+    description: "Justicia, inclusión y reconstrucción de la comunidad."
+  - id: paso-ruta-yahve-profetas-17
+    note: ISA.61-66
+    title: "Isaías 61-66"
+    description: "Renovación, esperanza final y una visión de nueva creación."

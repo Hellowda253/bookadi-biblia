@@ -1,0 +1,33 @@
+id: ruta-parabolas
+title: "Parábolas de Jesús"
+summary: "Las vívidas enseñanzas de Jesucristo acerca del carácter de Dios y el funcionamiento del Reino de los Cielos mediante parábolas memorables."
+image: ../assets/routes/ruta-parabolas.jpg
+steps:
+  - id: paso-ruta-parabolas-01
+    note: MAT.11-15
+    title: "Mateo 13"
+    description: "Estudio de Mateo 13 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-02
+    note: MAT.16-20
+    title: "Mateo 18"
+    description: "Estudio de Mateo 18 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-03
+    note: MAT.21-28
+    title: "Mateo 21–22"
+    description: "Estudio de Mateo 21–22 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-04
+    note: MRK.1-5
+    title: "Marcos 4"
+    description: "Estudio de Marcos 4 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-05
+    note: LUK.6-10
+    title: "Lucas 10"
+    description: "Estudio de Lucas 10 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-06
+    note: LUK.11-15
+    title: "Lucas 12"
+    description: "Estudio de Lucas 12 en el contexto de ruta de las parábolas de jesús."
+  - id: paso-ruta-parabolas-07
+    note: LUK.16-20
+    title: "Lucas 16"
+    description: "Estudio de Lucas 16 en el contexto de ruta de las parábolas de jesús."

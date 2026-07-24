@@ -1,0 +1,79 @@
+{
+  "adi_version": "1.1.0",
+  "atlas_id": "bookadi-biblia",
+  "title": "BookADI: Santa Biblia Libre para el mundo",
+  "language": "es",
+  "content_root": "content",
+  "assets_root": "assets",
+  "generated_root": "generated",
+  "default_entry": "00-inicio",
+  "engine_version": "1.0.0",
+  "about_path": "about.md",
+  "coverProfile": {
+    "title": "Santa Biblia Libre para el mundo",
+    "subtitle": "Atlas Dinámico Interactivo",
+    "description": "Una edición de lectura y estudio que conecta libros, personajes, lugares y temas a través de una red de relaciones.",
+    "author": "Proyecto ADI",
+    "source": "Santa Biblia Libre para el Mundo",
+    "topics": ["Pentateuco", "Historia", "Profecía", "Evangelios", "Epístolas", "Apocalipsis"],
+    "wordsPerMinute": 200
+  },
+  "homeProfile": {
+    "title": "BookADI de la Biblia",
+    "summary": [
+      "Este BookADI ofrece una lectura conectada de la Santa Biblia Libre para el Mundo. Reúne los libros del Antiguo y Nuevo Testamento con navegación por capítulos y versículos, introducciones, perfiles, glosario y relaciones temáticas.",
+      "Puede recorrerse en orden canónico, mediante rutas de lectura o a través de sus grafos para observar cómo se relacionan personajes, pactos, acontecimientos, enseñanzas y temas a lo largo del texto."
+    ],
+    "purposeTitle": "Propósito de lectura",
+    "purpose": "Este atlas está diseñado para leer, consultar y estudiar la Biblia conservando el texto fuente y añadiendo una capa editorial de contexto histórico, literario y conexiones internas.",
+    "featuredNoteIds": [
+      "GEN.1-5",
+      "EXO.16-20",
+      "PSA.21-30",
+      "ISA.51-55",
+      "MAT.1-5",
+      "JHN.1-5",
+      "ACT.1-5",
+      "REV.16-22"
+    ]
+  },
+  "readerProfile": {
+    "toolbar": {
+      "visibleTools": ["favorite", "relations", "textSize", "highlight", "comment", "pencil", "eraser", "splitView", "readingMode"],
+      "order": ["favorite", "relations", "textSize", "highlight", "comment", "pencil", "eraser", "splitView", "readingMode"],
+      "defaultHighlightColor": "#ffda5c"
+    },
+    "linkTargets": {
+      "inferBibleVerseAnchors": true
+    }
+  },
+  "iconProfile": {
+    "categories": {
+      "inicio": "home",
+      "pentateuco": "scroll",
+      "historicos": "landmark",
+      "poeticos": "feather",
+      "profetas": "scrollSparkle",
+      "evangelios": "bookCross",
+      "hechos": "footprints",
+      "epistolas": "mail",
+      "apocalipsis": "trumpetStar",
+      "glosario": "bookMarked"
+    }
+  },
+  "graphProfile": {
+    "coreNodeId": "00-inicio",
+    "categories": [
+      { "id": "inicio", "label": "La Biblia", "color": "#f3efe4" },
+      { "id": "pentateuco", "label": "Pentateuco", "color": "#8fc7ff" },
+      { "id": "historicos", "label": "Libros historicos (AT)", "color": "#77d89b" },
+      { "id": "poeticos", "label": "Libros poeticos", "color": "#ff9f8b" },
+      { "id": "profetas", "label": "Libros profeticos (AT)", "color": "#d5a6ff" },
+      { "id": "evangelios", "label": "Evangelios", "color": "#9ad7d2" },
+      { "id": "hechos", "label": "Hechos de los Apostoles", "color": "#ffdf7d" },
+      { "id": "epistolas", "label": "Epistolas", "color": "#e5c1f5" },
+      { "id": "apocalipsis", "label": "Apocalipsis", "color": "#ff8b9f" },
+      { "id": "glosario", "label": "Glosario", "color": "#f7c66b" }
+    ]
+  }
+}

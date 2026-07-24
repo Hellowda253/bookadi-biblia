@@ -1,0 +1,61 @@
+id: ruta-profecias-mesianicas
+title: "Profecías y Figuras Mesiánicas"
+summary: "Estudio de las promesas, símbolos y tipos proféticos que anuncian y prefiguran a Jesucristo en el Antiguo Testamento."
+image: ../assets/routes/ruta-profecias-mesianicas.jpg
+steps:
+  - id: paso-ruta-profecias-mesianicas-01
+    note: GEN.1-5
+    title: "Génesis 3"
+    description: "Estudio de Génesis 3 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-02
+    note: GEN.11-15
+    title: "Génesis 12"
+    description: "Estudio de Génesis 12 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-03
+    note: GEN.21-25
+    title: "Génesis 22"
+    description: "Estudio de Génesis 22 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-04
+    note: GEN.46-50
+    title: "Génesis 49"
+    description: "Estudio de Génesis 49 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-05
+    note: NUM.21-25
+    title: "Números 21"
+    description: "Estudio de Números 21 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-06
+    note: DEU.16-20
+    title: "Deuteronomio 18"
+    description: "Estudio de Deuteronomio 18 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-07
+    note: 2SA.6-10
+    title: "2 Samuel 7"
+    description: "Estudio de 2 Samuel 7 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-08
+    note: PSA.21-30
+    title: "Salmos 22"
+    description: "Estudio de Salmos 22 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-09
+    note: ISA.6-10
+    title: "Isaías 7"
+    description: "Estudio de Isaías 7 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-10
+    note: ISA.51-55
+    title: "Isaías 53"
+    description: "Estudio de Isaías 53 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-11
+    note: MIC.1-7
+    title: "Miqueas 5"
+    description: "Estudio de Miqueas 5 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-12
+    note: ZEC.6-10
+    title: "Zacarías 9"
+    description: "Estudio de Zacarías 9 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-13
+    note: MAT.1-5
+    title: "Mateo 1–2"
+    description: "Estudio de Mateo 1–2 en el contexto de ruta de profecías y figuras mesiánicas."
+  - id: paso-ruta-profecias-mesianicas-14
+    note: LUK.21-24
+    title: "Lucas 24"
+    description: "Estudio de Lucas 24 en el contexto de ruta de profecías y figuras mesiánicas."

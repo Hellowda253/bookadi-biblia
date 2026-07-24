@@ -1,0 +1,55 @@
+id: ruta-vida-muerte-resurreccion
+title: "Vida, Muerte y Resurrección de Cristo"
+summary: "El núcleo histórico y teológico del Nuevo Testamento: el nacimiento, ministerio, pasión, crucifixión y resurrección del Salvador."
+image: ../assets/routes/ruta-vida-muerte-resurreccion-crucifixion.jpg
+images:
+  - ../assets/routes/ruta-vida-muerte-resurreccion-resurreccion.png
+steps:
+  - id: paso-ruta-vida-muerte-resurreccion-01
+    note: LUK.1-5
+    title: "Lucas 1–2"
+    description: "Estudio de Lucas 1–2 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-02
+    note: JHN.1-5
+    title: "Juan 1"
+    description: "Estudio de Juan 1 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-03
+    note: MAT.1-5
+    title: "Mateo 3–4"
+    description: "Estudio de Mateo 3–4 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-04
+    note: MAT.6-10
+    title: "Mateo 5–7"
+    description: "Estudio de Mateo 5–7 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-05
+    note: MRK.6-10
+    title: "Marcos 8"
+    description: "Estudio de Marcos 8 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-06
+    note: LUK.21-24
+    title: "Lucas 22"
+    description: "Estudio de Lucas 22 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-07
+    note: JHN.11-15
+    title: "Juan 13–17"
+    description: "Estudio de Juan 13–17 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-08
+    note: JHN.16-21
+    title: "Juan 13–17"
+    description: "Estudio de Juan 13–17 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-09
+    note: MAT.21-28
+    title: "Mateo 26–28"
+    description: "Estudio de Mateo 26–28 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-10
+    note: MRK.11-16
+    title: "Marcos 15–16"
+    description: "Estudio de Marcos 15–16 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-11
+    note: ACT.1-5
+    title: "Hechos 1"
+    description: "Estudio de Hechos 1 en el contexto de ruta de la vida, muerte y resurrección de cristo."
+  - id: paso-ruta-vida-muerte-resurreccion-12
+    note: 1CO.11-16
+    title: "1 Corintios 15"
+    description: "Estudio de 1 Corintios 15 en el contexto de ruta de la vida, muerte y resurrección de cristo."
