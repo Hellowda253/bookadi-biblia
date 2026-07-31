@@ -4,6 +4,7 @@ Edición interactiva para Windows que organiza la Santa Biblia Libre para el
 Mundo como un atlas de lectura y estudio. Incluye navegación por capítulos y
 versículos, búsqueda, rutas temáticas, glosario, anotaciones, progreso y grafos
 2D y 3D.
+El formato ADI esta pensado para ser el lector definitivo al momento de leer contenido largo.
 
 ## Instalación
 
@@ -31,9 +32,6 @@ Get-FileHash -Algorithm SHA256 ".\BookADI.Biblia.Setup.1.1.0.exe"
 ```
 
 ## Contenido y atribuciones
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad41ea80-1b9b-4a2b-9be7-8e0032aafdc3" />
-
-
 
 El texto base es la **Santa Biblia Libre para el Mundo**, identificada como
 dominio público en los metadatos de los módulos. Las atribuciones de las obras
@@ -41,3 +39,11 @@ visuales se conservan en
 [`assets/routes/CREDITOS.md`](assets/routes/CREDITOS.md).
 
 Consulta [`NOTICE.md`](NOTICE.md) para conocer el alcance de estas atribuciones.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad41ea80-1b9b-4a2b-9be7-8e0032aafdc3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf0dfaf3-bf2c-499f-88f6-9a4f423f2d21" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27ae9147-3f40-4402-93ad-d28461d16bda" />
+
+
+
+
