@@ -31,7 +31,8 @@ Get-FileHash -Algorithm SHA256 ".\BookADI.Biblia.Setup.1.1.0.exe"
 ```
 
 ## Contenido y atribuciones
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad41ea80-1b9b-4a2b-9be7-8e0032aafdc3" />
+
 
 
 El texto base es la **Santa Biblia Libre para el Mundo**, identificada como
