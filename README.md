@@ -31,6 +31,8 @@ Get-FileHash -Algorithm SHA256 ".\BookADI.Biblia.Setup.1.1.0.exe"
 ```
 
 ## Contenido y atribuciones
+![Uploading image.png…]()
+
 
 El texto base es la **Santa Biblia Libre para el Mundo**, identificada como
 dominio público en los metadatos de los módulos. Las atribuciones de las obras
